@@ -14,9 +14,4 @@ Steps included handling mismatched condition and page assignment, removing dupli
 
 # Technologies Used
 1. Python, Numpy, Pandas, Matplotlib, StatsModels, Scipy
-2. LaTex
-3. Jupyter Notebook
-
-# Key Findings
-1. The conversion rate for the new page was not superior to that for the old page
-2. The country of the user did not impact the rate of conversion between the new and old page
+2. Jupyter Notebook
